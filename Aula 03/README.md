@@ -51,5 +51,5 @@ importante porque não queremos aumentar artificialmente a intensidade valor na 
 normalizar o kernel antes de aplicá-lo a um imagem.
 <br><br>
 ### Convolução - Visão Geral
-<img src="https://github.com/dep-rookie/processamento-img-e-visao-computacional-aula-03/blob/main/images/Convolucao%20-%20visao%20geral%20(1).png" align="center" width="400" height="200"/>  <img src="https://github.com/dep-rookie/processamento-img-e-visao-computacional-aula-03/blob/main/images/Convolucao%20-%20visao%20geral%20(2).png" align="center" width="500" height="200"/>
+<img src="https://github.com/dep-rookie/processamento-de-img-e-visao-computacional/blob/main/Aula%2003/imagens/Convolucao%20-%20visao%20geral%20(1).png" align="center" width="400" height="200"/>  <img src="https://github.com/dep-rookie/processamento-de-img-e-visao-computacional/blob/main/Aula%2003/imagens/Convolucao%20-%20visao%20geral%20(2).png" align="center" width="500" height="200"/>
 <br><br>
