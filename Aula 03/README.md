@@ -5,7 +5,7 @@ Um histograma é um gráfico de colunas ou de linhas que representa a <ins>distr
 normalmente possui uma <ins>distribuição de 0 a 255</ins> que demonstra o valor (intensidade) do pixel e no eixo Y é plotada a<br> quantidade de pixels daquela intensidade.
 O histograma de uma imagem indica <ins>o número ou o percentual de pixels que a imagem <br>tem em determinado nível de cinza ou cor.</ins>
 <br><br><br>
-<img src="https://github.com/dep-rookie/processamento-img-e-visao-computacional-aula-03/blob/main/images/ponte_result.jpg" align="center" width="300" height="200"/><img src="https://fabioardito.com/wp-content/uploads/2021/09/img030-800x559-1.jpg" align="center" width="300" height="200"/><img src="https://cdn.cambridgeincolour.com/images/pt/tutorials/hist_examplehist_pt.png" align="center" width="300" height="200"/>
+<img src="https://github.com/dep-rookie/processamento-de-img-e-visao-computacional/blob/main/Aula%2003/imagens/ponte_result.jpg" align="center" width="300" height="200"/><img src="https://fabioardito.com/wp-content/uploads/2021/09/img030-800x559-1.jpg" align="center" width="300" height="200"/><img src="https://cdn.cambridgeincolour.com/images/pt/tutorials/hist_examplehist_pt.png" align="center" width="300" height="200"/>
 <br><br>
 ### Equalização do Histograma
 + O histograma fornece uma indicação da qualidade da imagem quanto ao contraste e intensidade luminosa.
