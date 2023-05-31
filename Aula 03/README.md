@@ -38,7 +38,7 @@ posição no imagem de saída. Aqui, o kernel é chamado de filtro de imagem e o
 filtragem de imagem. 
 A saída obtida após a aplicação do kernel ao imagem é chamada de imagem filtrada e dependendo dos valores do kernel, ele executa funções
 diferentes, como desfoque, detecção de bordas e assim por diante.<br><br>
-<img src="https://github.com/dep-rookie/processamento-img-e-visao-computacional-aula-03/blob/main/images/Convolucao.png" align="center" width="500" height="200"/>
+<img src="https://github.com/dep-rookie/processamento-de-img-e-visao-computacional/blob/main/Aula%2003/imagens/Convolucao.png" align="center" width="500" height="200"/>
 <br><br>
 ### Suavização por cálculo da média (BLURRING)
 Blurring se refere ao cálculo da média dos valores de pixel em uma vizinhança. Também é chamado de filtro passa-baixo. Uma maneira simples de
